@@ -1,4 +1,4 @@
-# 💻 Daniel Ramirez | Cyber Developer <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+# 💻 Daniel Ramirez | Cyber Desarrollador <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 ```ascii
 ██████╗  █████╗ ███╗   ██╗██╗███████╗██╗         ██████╗  █████╗ ███╗   ███╗██╗██████╗ ███████╗███████╗
