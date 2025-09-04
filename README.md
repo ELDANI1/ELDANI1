@@ -71,7 +71,9 @@ $ echo $STATUS
 
 ### 🔐 **Cybersecurity Expertise**
 <p align="center">
-  <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000">
+  <a href="https://coursera.org/share/8b2d9ea1c0f2c76bc5f3fc3a1e5078b3" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000">
+  </a>
   <img src="https://img.shields.io/badge/Network_Security-00FF41?style=for-the-badge&logo=wireshark&logoColor=black&labelColor=000000">
   <img src="https://img.shields.io/badge/Vulnerability_Assessment-FF6B6B?style=for-the-badge&logo=security&logoColor=white&labelColor=000000">
   <img src="https://img.shields.io/badge/Secure_Coding-9B59B6?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=000000">
